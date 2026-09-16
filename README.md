@@ -1,4 +1,4 @@
-# Kouman IA (F-llama-3.2-1B-Baoulé)
+# Kouman - LLM for baoulé (F-llama-3.2-1B-Baoulé)
 
 [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Tree--AI--lab-yellow?logo=huggingface)](https://huggingface.co/Tree-AI-lab/F-llama-3-2-1B-Baoule-1000_step)
 [![Organization](https://img.shields.io/badge/Organization-Tree--AI--lab-blue)](https://github.com/Three-Ai-lab)

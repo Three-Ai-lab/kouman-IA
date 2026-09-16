@@ -5,7 +5,7 @@
 
 **Kouman IA** est le modèle de langage (LLM) basé sur **Meta Llama 3.2 1B**, fine-tuné spécifiquement pour la langue **Baoulé** (Côte d'Ivoire) par l'équipe **Tree AI Lab**.
 
-Ce dépôt fait partie de l'écosystème **Kouman**, aux côtés des modèles de reconnaissance vocale (**ASR**) et de synthèse vocale (**TTS**).
+Ce dépôt fait partie de l'écosystème **[Kouman AI](https://github.com/Three-Ai-lab/Kouman-AI)**, aux côtés des modèles de reconnaissance vocale (**ASR**) et de synthèse vocale (**TTS**).
 
 ---
 
@@ -72,4 +72,4 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 ## Citation & Contact
 
 Développé par **Tree AI Lab** (Côte d'Ivoire).  
-Pour toute question ou collaboration, visitez notre organisation [Three-Ai-lab sur GitHub](https://github.com/Three-Ai-lab).
+Organisation GitHub : [Three-Ai-lab](https://github.com/Three-Ai-lab).
